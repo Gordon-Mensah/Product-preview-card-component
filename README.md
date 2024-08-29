@@ -17,6 +17,8 @@ This project implements a responsive product preview card component using HTML a
 
 ### Screenshots:
 - Include screenshots of the component in desktop and mobile views to demonstrate responsiveness and design fidelity.
+- ![image](https://github.com/user-attachments/assets/21d8ff88-67c1-41d0-b6df-7bddc7588ffa)
+
 
 ### Credits:
 - **Frontend Mentor**: Provided the design challenge.
